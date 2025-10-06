@@ -1,18 +1,18 @@
-# Emergency Flood Prediction Project 2011
+# Community-Led Flood Forecasting - Project 2011
 ![Historical Project](https://img.shields.io/badge/status-historical-blue)  ![Disaster Response](https://img.shields.io/badge/category-disaster--response-red)  ![Thailand 2011](https://img.shields.io/badge/event-Thailand%20Floods%202011-orange) ![Open Science](https://img.shields.io/badge/license-open--science-green)
 
-> **Research Archive:** Hyperlocal Flood Predictions That Saved Homes.
+> **Innovation in Crisis:** Hyperlocal Flood Predictions That Saved Homes.
 
 *Community-driven forecasting platform using self-learning models to answer one question - "Will my barrier hold?"*
-
-![bkk10NovWLv4](https://github.com/user-attachments/assets/e9ea5ed5-7e27-47cc-9700-fe16b635f5ed)
-
-*Predictive water level compared with the three types of floow barriers in the area*
-
 
 **Bangkok Flood Prediction 2011** is an emergency response system that provided real-time flood forecasts when official models failed during Thailand's worst natural disaster. Using ARIMA time series models and spatial interpolation, it predicted water levels 5 days in advance across Bangkok's neighborhoods—empowering 13 million residents to protect their homes when government forecasts were unavailable.
  
 All predictions were shared freely via WooWooWuu.de, filling a critical information void during Thailand's $45B flood crisis.
+
+
+![bkk10NovWLv4](https://github.com/user-attachments/assets/e9ea5ed5-7e27-47cc-9700-fe16b635f5ed)
+
+*Predictive water level compared with the three types of floow barriers in the area*
 
 ## Project Overview
 
