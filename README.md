@@ -1,4 +1,18 @@
-# Bangkok Flood Prediction Project 2011
+# Emergency Flood Prediction Project 2011
+![Historical Project](https://img.shields.io/badge/status-historical-blue)  ![Disaster Response](https://img.shields.io/badge/category-disaster--response-red)  ![Thailand 2011](https://img.shields.io/badge/event-Thailand%20Floods%202011-orange) ![Open Science](https://img.shields.io/badge/license-open--science-green)
+
+> **Research Archive:** Hyperlocal Flood Predictions That Saved Homes.
+
+*Community-driven forecasting platform using self-learning models to answer one question - "Will my barrier hold?"*
+
+![bkk10NovWLv4](https://github.com/user-attachments/assets/e9ea5ed5-7e27-47cc-9700-fe16b635f5ed)
+
+*Predictive water level compared with the three types of floow barriers in the area*
+
+
+**Bangkok Flood Prediction 2011** is an emergency response system that provided real-time flood forecasts when official models failed during Thailand's worst natural disaster. Using ARIMA time series models and spatial interpolation, it predicted water levels 5 days in advance across Bangkok's neighborhoods—empowering 13 million residents to protect their homes when government forecasts were unavailable.
+ 
+All predictions were shared freely via WooWooWuu.de, filling a critical information void during Thailand's $45B flood crisis.
 
 ## Project Overview
 
@@ -13,6 +27,11 @@ During the 2011 floods, the Bangkok area faced a critical information gap:
 - **Limited situational awareness**: People in flood-affected areas could not determine if water levels were rising or falling
 - **No advance forecasting**: The government could not forecast and announce the flood situation in advance due to the complexity of flood movement in urban areas
 
+![WLbkkNov2011small](https://github.com/user-attachments/assets/bd123955-f1df-41ac-b529-f7f02021f811)
+
+*Animation of water level forecasting in the Bangkok area showing a brief rise followed by the decrease after a week*
+
+
 ### The Solution
 
 This project addressed these challenges through a **data-driven forecasting approach**:
@@ -21,6 +40,11 @@ This project addressed these challenges through a **data-driven forecasting appr
 - **Spatial interpolation**: Created flood maps showing water levels across individual neighborhoods
 - **Actionable information**: Enabled residents to make informed decisions about barrier reinforcement or relocating valuables
 - **Real-time dissemination**: All predictions were released publicly through **WooWooWuu.de** website and **WooWooWuu** Facebook page, created specifically for flood relief
+
+![woowoowuu-logo](https://github.com/user-attachments/assets/089d65e2-a396-4b9a-97ff-07941c1be72e)
+
+*Logo of the website where the flood infomration and forecastes were puhlished*
+
 
 ### What People Needed to Know
 
@@ -31,6 +55,11 @@ Residents in flooded areas had simple but critical questions:
 - Will flood walls at 2.5m, 2.8m, or 3.0m MSL be sufficient for my area?
 
 This project empowered individuals to **mitigate their own risk** with hyperlocal flood predictions.
+
+
+![12NovSmall](https://github.com/user-attachments/assets/8d286a1f-fa23-4729-aeae-02ea048fe31d)
+
+*Animation showing predicted water levels across Bangkok area, highlighting the risng level in the southern zones*
 
 ---
 
@@ -43,6 +72,11 @@ The 2011 Thailand floods were among the worst flooding disasters in the country'
 - **Required large-scale evacuations and emergency responses**
 
 This project represents a real-time scientific response to a major natural disaster, developed under emergency conditions to fill a critical information void.
+
+
+![BKK12Nov2011flowV8](https://github.com/user-attachments/assets/b32a607e-0971-4ebe-8818-f46dacd3d8d7)
+
+*Water situation charts showing the water levels (blue bars) compared with the flood wall height (green bars)*
 
 ---
 
@@ -180,12 +214,20 @@ Daily flood status maps were generated showing:
 - **Animations**: GIF files showing flood progression over time
 - **Charts**: Time series plots with prediction intervals and confidence bounds
 
+<img width="1755" height="1241" alt="BKKstatusV2" src="https://github.com/user-attachments/assets/5851f5a9-c5ab-4c3b-842d-090613f75bf6" />
+
+*Map showing the rate of water level changes in Bangkok, green indicates decreasing level, red is the increasing one. The size of each circle represents the magnitude of change*
+
 **Public Release:**
 All predictions and maps were published on:
 - **Website**: WooWooWuu.de
 - **Social Media**: WooWooWuu Facebook page
 
 These platforms were created specifically for flood relief and provided free access to predictions for all residents.
+
+![coop-logo-big](https://github.com/user-attachments/assets/ddde8bf5-6ccb-4a04-bf5d-25b8487c91a0)
+
+*Collaboration with citizen-initiative partners during the crisis period*
 
 ---
 
@@ -316,7 +358,7 @@ This grassroots approach filled the information gap when official forecasts were
 
 ## Author
 
-Project developed in 2011 by Werapol for Bangkok flood prediction and risk assessment.
+Project developed in 2011 by Werapol Bejranonda for Bangkok flood prediction and risk assessment.
 
 **Public Platforms:**
 - Website: WooWooWuu.de (created for flood relief)
@@ -340,4 +382,4 @@ Historical research project. Data sources should be properly attributed if reuse
 
 ## Acknowledgments
 
-This project was developed under emergency conditions to serve the people of Bangkok during one of Thailand's worst natural disasters. Special thanks to all who contributed data, provided feedback, and helped disseminate the predictions to those in need.
+This project was developed under emergency conditions to serve the people in Thailand during one of Thailand's worst natural disasters. Special thanks to all who contributed data, provided feedback, and helped disseminate the predictions to those in need.
