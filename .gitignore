@@ -1,0 +1,12 @@
+# Claude Code configuration files
+CLAUDE.md
+.claude/settings.local.json
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*~
